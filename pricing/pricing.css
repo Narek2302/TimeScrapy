@@ -221,6 +221,7 @@
     font-weight: 700;
     margin-top: 35px;
     margin-left: 30px;
+    padding-bottom: 20px;
 }
 
 .card__sub-title {
@@ -228,6 +229,7 @@
     font-size: 24px;
     width: 357px;
     margin-left: 30px;
+    padding-bottom: 15px;
 }
 
 .card__price {
@@ -235,7 +237,7 @@
     color: #0B3558;
     font-weight: 700;
     margin-left: 30px;
-    margin-bottom: 34px;
+    margin-bottom: 25px;
 }
 
 .c-btn {
@@ -244,7 +246,8 @@
     background-color: #0069ff;
     border: 2px solid #0069ff;
     border-radius: 9px;
-    margin-top: 35px;
+    margin-top: 25px;
+    margin-bottom: 10px;
 
     position: absolute;  
     left: 50%;
@@ -282,6 +285,9 @@
 
 .card__block1 {
     background-color: #fefefe;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 0 2px #00000041;
 }
 
 .card__block2 {
@@ -302,6 +308,7 @@
     font-size: 26px;
     color: #0B3558;
     display: flex;
+    align-items: center;
     background-color: #fbfbfb;
     padding-left: 32px;
     padding-bottom: 11px;
