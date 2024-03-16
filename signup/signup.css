@@ -84,7 +84,7 @@
     min-height: calc(100vh - 89px - 2px - 2 * 115px);
     max-height: calc(100vh - 89px - 2px - 2 * 115px);
     background-color: #fcfcfc;
-    background-image: url(../imgs/signup-background.jpg);
+    background-image: url(../imgs/signup-background.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -198,6 +198,9 @@
     padding-left: 24px;
     border: 2px solid #A6BBD1;
     border-radius: 17px;
+
+    color: #A6BBD1;
+    font-size: 20px;
 }
 
 .inp:last-child {

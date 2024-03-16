@@ -111,7 +111,7 @@
     padding-top: 250px;
     min-height: calc(100vh - 89px - 250px - 2px - 350px);
     max-height: calc(100vh - 89px - 250px - 2px - 350px);
-    background-image: url(../imgs/main-background-removebg-preview.png);
+    background-image: url(../imgs/main-background.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;

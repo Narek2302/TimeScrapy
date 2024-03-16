@@ -83,11 +83,14 @@
     width: calc(469px - 24px);
     height: 60px;
     padding-left: 24px;
-}
 
-.inp:focus {
+    color: #DFEAF2;
+    font-size: 20px;
+
+}
+/* .inp:focus {
     outline: 0;
-} 
+}  */
 
 #url {
     margin-bottom: 38px;
